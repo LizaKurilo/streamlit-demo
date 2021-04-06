@@ -1,3 +1,4 @@
 streamlit
 opencv-python==4.1.2.30
+opencv-contrib-python
 black
